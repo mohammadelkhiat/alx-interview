@@ -2,9 +2,10 @@ Hi there,
 ### Mohammad Elkhiat
 I'm a software engineer with a passion for getting better coding skills
 ---
-This Directory is about Pascal Triangle and how to impement it using python
+This Directory is about Pascal Triangle and how to make it using python
 ---
-0. Pascal's Triangle					[mandatory]
+0. Pascal's Triangle	[mandatory]
+
 Create a function def pascal_triangle(n): that returns a list of lists of integers representing the Pascal’s triangle of n:
 
 Returns an empty list if n <= 0
